@@ -3,7 +3,7 @@
 > **左手传统编程硬功夫，右手 AIGC 新玩法。**  
 > 微信公众号 **「AIGCWorld」** 背后的开源工程与 AI 实战阵地 — 面向普通大众与技术者，分享 AIGC 普及内容，并把真正用得上的 AI 工具与基础设施开源出来。
 
-🌐 个人网站与教程：[aigcwei.cn](https://aigcwei.cn) · 📱 微信公众号：**AIGCWorld** · 👤 发起人：[@Helioswei](https://github.com/Helioswei)
+🌐 个人网站与教程：[aigcwei.cn](https://aigcwei.cn) · 📱 微信公众号：**AIGCWorld** · 𝕏 [@theAIGCWorld](https://x.com/theAIGCWorld) · 👤 发起人：[@Helioswei](https://github.com/Helioswei)
 
 ---
 
