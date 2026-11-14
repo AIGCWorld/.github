@@ -28,6 +28,6 @@
 
 ## 📮 关注公众号
 
-<img src="https://raw.githubusercontent.com/Helioswei/Helioswei/main/wechat-qr.jpg" width="172" alt="公众号 AIGCWorld" />
+<img src="./wechat-qr.jpg" width="172" alt="公众号 AIGCWorld" />
 
 扫码关注 **AIGCWorld** —— AIGC 应用、AI 绘图与视频、工具实践的科普与实战记录。
