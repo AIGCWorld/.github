@@ -23,3 +23,11 @@
 
 - **把想法做成真实可用的工具**：坚持「自己先用得上」，关注本地优先、数据隐私与可复现工程实践。
 - **公众号 × 开源联动**：在公众号 **AIGCWorld** 持续更新 AI 工具评测、AI 绘图 / 视频工作流、Agent 实战复盘（已累计发布 60+ 篇），对应的源码与教程沉淀在 GitHub 与 [aigcwei.cn](https://aigcwei.cn)。
+
+---
+
+## 📮 关注公众号
+
+<img src="https://raw.githubusercontent.com/Helioswei/Helioswei/main/wechat-qr.jpg" width="172" alt="公众号 AIGCWorld" />
+
+扫码关注 **AIGCWorld** —— AIGC 应用、AI 绘图与视频、工具实践的科普与实战记录。
